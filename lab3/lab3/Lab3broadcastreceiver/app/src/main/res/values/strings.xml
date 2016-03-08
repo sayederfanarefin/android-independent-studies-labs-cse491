@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3broadcastreceiver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sendMessage">message to broadcast</string>
+    <string name="myBroadcastIntent">Broadcast </string>
+</resources>
